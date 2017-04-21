@@ -65,6 +65,8 @@ capture_pc - screenshot PC
 keylogs - get keylogs
 self_destruct - destroy all traces from target PC
 to - select targets by it's name
+play - autostart playing a YouTube video fullscreen on target PC
+help - list all possible commands
 ```
 
 You can copy the above to update your command list via `BotFather` so you don't have to type them manually.
